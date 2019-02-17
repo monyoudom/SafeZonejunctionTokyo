@@ -1,0 +1,6 @@
+framework module BHPhotoView {
+  umbrella header "BHPhotoView-umbrella.h"
+
+  export *
+  module * { export * }
+}

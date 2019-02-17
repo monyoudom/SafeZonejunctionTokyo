@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.0)
+  - BHPhotoView (0.12.3)
+  - SCLAlertView (0.8)
+  - SwiftSpinner (1.6.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - BHPhotoView (from `https://github.com/benhurott/BHPhotoView`)
+  - SCLAlertView
+  - SwiftSpinner
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SCLAlertView
+    - SwiftSpinner
+
+EXTERNAL SOURCES:
+  BHPhotoView:
+    :git: https://github.com/benhurott/BHPhotoView
+
+CHECKOUT OPTIONS:
+  BHPhotoView:
+    :commit: cb039872b093331ef046e9a52bd4f32cf5f70383
+    :git: https://github.com/benhurott/BHPhotoView
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  BHPhotoView: dbcfb4496ce3e78ba5df4ffc131e88d02a34bf38
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftSpinner: 3a4c6dea425e5a31b908a8b1dd5dcd1ad4d96340
+
+PODFILE CHECKSUM: a653b7c1718e4560c83eb1f2cb7119f313ee51c6
+
+COCOAPODS: 1.5.0
